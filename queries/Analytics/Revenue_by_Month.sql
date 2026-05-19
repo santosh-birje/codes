@@ -1,0 +1,1 @@
+SELECT month, SUM(revenue) FROM sales GROUP BY month
